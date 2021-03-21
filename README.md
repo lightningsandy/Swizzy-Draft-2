@@ -1,6 +1,6 @@
 # SwizzyFIT - Helsana Integrated Fitness App
 
-!Important: Visit this link to experience our app firsthand. Need expo app for this. Download the same in the app store or play store.
+!!! Important: Visit this link to experience our app firsthand. Need expo app for this. Download the same in the app store or play store.
 [Expo-Link](https://expo.io/@lightningsandy/projects/SwizzyFIT)
 
 
